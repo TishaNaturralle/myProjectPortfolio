@@ -104,8 +104,9 @@ a:hover {
 .logo {
   max-height: 40px;
 }
+
 nav {
-  padding: 0;
+  padding: 60px 20px;
 }
 
 nav ul {
